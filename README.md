@@ -1,9 +1,7 @@
 # www.matematicasjosepfont.es
 
-Web de Josep Font, Alto Rendimiento en Matemáticas. Sitio estático servido con GitHub Pages.
+Redirige a los juegos: https://juegos.matematicasjosepfont.es/ (repositorio [Juegos](https://github.com/jofontji-lang/Juegos)).
 
-- Páginas: inicio, `servicios/`, `sobre-josep-font/`, `testimonios/`, `preguntas-frecuentes/`, `blog/` y `404.html`.
-- Tipografías alojadas aquí (Fraunces y Figtree, licencia SIL OFL) en `fuentes/`.
-- Los juegos están en otro repositorio: [Juegos](https://github.com/jofontji-lang/Juegos) → juegos.matematicasjosepfont.es.
-
-Para cambiar textos, edita el HTML de la página correspondiente.
+- `index.html` y `404.html`: llevan a la portada de los juegos, también desde cualquier dirección antigua.
+- `ads.txt` y la etiqueta meta de AdSense: necesarios para los anuncios de los juegos. No borrar.
+- `CNAME`: dominio propio de GitHub Pages.
